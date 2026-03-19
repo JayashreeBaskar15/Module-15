@@ -19,8 +19,8 @@ To write a Python program to build and evaluate the given Expression tree.
 ## PROGRAM:
 
 ```
-Name: Kiruthika M
-reg.No: 212222060121
+Name: Jayashree B
+reg.No: 212222060089
 
 class Node:
     def __init__(self, val, left=None, right=None):
